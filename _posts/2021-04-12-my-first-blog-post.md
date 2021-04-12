@@ -4,7 +4,7 @@ The substance is ingested by an organism and assimilated by the organism's cells
 Different species of animals have different feeding behaviours that satisfy the needs of their unique metabolisms, often evolved to fill a specific ecological niche within specific geographical contexts.
 
 ---
-title: "YOUR-TITLE"
+title: "My favourite food"
 date: 2021-04-12
 ---
 
